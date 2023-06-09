@@ -1,2 +1,3 @@
 # go-ping
-simple Go server | Dockerized
+
+A simple Go server that includes a multi-stage `Dockerfile`
